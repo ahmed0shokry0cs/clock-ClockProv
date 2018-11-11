@@ -3,7 +3,7 @@
   "description" : "this is our package for time",
   "type" : "package",
   "license" : "MIT",
-  "version" : "1.0.0",
+  "version" : "1.0",
   "keywords" : ["laravel","date","clock"],
   "authors" : [
     {
