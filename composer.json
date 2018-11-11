@@ -1,0 +1,28 @@
+{
+  "name" : "clock/ClockProv",
+  "description" : "this is our package for time",
+  "type" : "package",
+  "license" : "MIT",
+  "version" : "1.0.0",
+  "keywords" : ["laravel","date","clock"],
+  "authors" : [
+    {
+      "name" : "ahmed shokry one",
+      "facebook" : "https://wwww.facebook/ahmed_shokry_cs",
+      "role" : "developer"
+    },
+    {
+      "name" : "ahmed shokry two",
+      "facebook" : "https://wwww.facebook/ahmed_shokry_cs",
+      "role" : "developer"
+    }
+  ],
+  "require" : {
+    "php" : ">= 5.3.0"
+  },
+  "autoload" : {
+    "psr-4" : {
+      "Clock\\ClockProv\\" : "src/"
+    }
+  }
+}
