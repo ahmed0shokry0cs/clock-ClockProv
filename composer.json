@@ -24,5 +24,6 @@
     "psr-4" : {
       "Clock\\ClockProve\\" : "src/"
     }
-  }
+  },
+  "minimum-stability" : "dev"
 }
