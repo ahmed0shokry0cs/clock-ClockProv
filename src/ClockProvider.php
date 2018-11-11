@@ -1,9 +1,9 @@
 <?php
 
-namespace Clock\ClockProv;
+namespace Clock\ClockProve;
 
 use Illuminate\Support\ServiceProvider;
-use Clock\ClockProv\ClockFacade;
+use Clock\ClockProve\ClockFacade;
 
 class ClockProvider extends ServiceProvider
 {
