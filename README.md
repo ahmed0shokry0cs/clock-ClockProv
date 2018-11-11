@@ -12,7 +12,7 @@ Clock\ClockProve\ClockProvider::class
 ```
  add in aliases array this line : 
 ```php
-Clock' => Clock\ClockProve\ClockFacade::class
+'Clock' => Clock\ClockProve\ClockFacade::class
 ``` 
 then run this command :
 `php artisan vendor:publish`
