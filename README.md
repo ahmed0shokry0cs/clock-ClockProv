@@ -3,7 +3,7 @@ this is our package for time
 ## installation :
 please run this command : 
 ```php
-composer require clock/clockprove:dev-master
+composer require clock/clockprovehamada:dev-master
 ```
 then go to config directory then open app.php : 
 add in providers array this line : 
