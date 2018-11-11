@@ -1,5 +1,5 @@
 {
-  "name" : "clock/ClockProv",
+  "name" : "clock/ClockProve",
   "description" : "this is our package for time",
   "type" : "package",
   "license" : "MIT",
