@@ -1,6 +1,6 @@
 <?php
 
-namespace Clock\ClockProv;
+namespace Clock\ClockProve;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
