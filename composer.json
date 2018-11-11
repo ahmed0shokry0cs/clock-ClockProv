@@ -1,5 +1,5 @@
 {
-  "name" : "clock/clockprovehamada",
+  "name" : "clockhamada/clockprovehamada",
   "description" : "this is our package for time",
   "type" : "package",
   "license" : "MIT",
